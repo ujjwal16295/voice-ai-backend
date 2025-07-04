@@ -1,0 +1,9 @@
+Flask
+flask-cors
+torch
+torchaudio
+demucs
+librosa
+soundfile
+numpy
+werkzeug
